@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Asus Vivobook",
+    "price": 88200,
+    "imgUrl": "/imgs/img1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lenovo ",
+    "price": 44800,
+    "imgUrl": "/imgs/img2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lenovo Gen 2",
+    "price": 84900,
+    "imgUrl": "/imgs/img3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Acer Aspire 5",
+    "price": 35500,
+    "imgUrl": "/imgs/img4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dell Inspiron",
+    "price": 49900,
+    "imgUrl": "/imgs/img5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Asus Pro",
+    "price": 17990,
+    "imgUrl": "/imgs/6.jpg"
+  }
+]
